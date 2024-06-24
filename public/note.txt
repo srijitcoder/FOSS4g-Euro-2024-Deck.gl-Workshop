@@ -1,0 +1,8 @@
+FRP and Brightness Data from - https://firms.modaps.eosdis.nasa.gov/country/
+modis_2023_all_countries
+
+Every Person in New York City
+Each dot represents 10 people. Density per tract from 2015 census data
+
+Data source: US Census Bureau
+https://drive.google.com/file/d/14VzOWsOn8EDury7wgy_K_Ml8QPfXuU9L/view?usp=sharing
