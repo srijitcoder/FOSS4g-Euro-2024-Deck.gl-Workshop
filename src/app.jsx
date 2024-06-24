@@ -34,12 +34,12 @@ export const components = [
   },
   {
     path: '/big-data-heatmap',
-    name: 'Bid Data (4 million data points) - Heatmap',
+    name: '4 million data points (Heatmap)',
     element: <FourMillionHeatmapData />,
   },
   {
     path: '/big-data-grid',
-    name: 'Bid Data Grid (4 million data points) - Heatmap',
+    name: '4 million data points (Grid)',
     element: <FourMillionGridData gpuAggregation={true} />,
   },
 ];
