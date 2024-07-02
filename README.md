@@ -52,6 +52,12 @@ npm install
 - Go to this URL - https://get.webgl.org/ (If your browser don't support WebGL, you need to enable it)
 - Use this link to enable WebGL on your respective browser - https://help.lexialearning.com/s/article/How-to-Turn-on-Web-GL-in-Your-Browser-20516
 
+### Running it on localhost
+
+```
+npm install
+```
+
 ## Hands-on session
 
 Each session is divided into `modules` and each `modules` contain -
