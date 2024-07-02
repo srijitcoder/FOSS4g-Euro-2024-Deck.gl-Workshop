@@ -1,11 +1,12 @@
 import React from 'react';
-import Module01 from '../module-01/solution.jsx';
-import Module02 from '../module-02/solution.jsx';
-import Module03 from '../module-03/solution.jsx';
-import Module04 from '../module-04/solution.jsx';
-import Module05 from '../module-05/solution.jsx';
-import Module06 from '../module-06/solution.jsx';
-import Module07 from '../module-07/solution.jsx';
+import Module01 from '../module-01/main.jsx';
+import Module02 from '../module-02/main.jsx';
+import Module03 from '../module-03/main.jsx';
+import Module04 from '../module-04/main.jsx';
+import Module05 from '../module-05/main.jsx';
+import Module06 from '../module-06/main.jsx';
+import Module07 from '../module-07/main.jsx';
+import Module08 from '../module-08/main.jsx';
 
 export const components = [
   {
@@ -42,6 +43,11 @@ export const components = [
     path: '/module-07',
     name: 'Module 07: Heatmap with 4 million data points',
     element: <Module07 />,
+  },
+  {
+    path: '/module-08',
+    name: 'Module 08: Heatmap with dynamic controller',
+    element: <Module08 />,
   },
 ];
 

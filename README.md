@@ -69,6 +69,7 @@ Each session is divided into `modules` and each `modules` contain -
 - Module 05: Adding tooltip to points
 - Module 06: Comparing data rendering with GPU and CPU
 - Module 07: Heatmap with 4 million data points
+- Module 08: Heatmap with dynamic controller
 
 ## Further learning resources
 
